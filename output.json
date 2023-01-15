@@ -1,0 +1,77 @@
+[
+    {
+        "key": "ENV_1",
+        "value": "",
+        "comment": "Env 1 comment"
+    },
+    {
+        "key": "ENV_2",
+        "value": "",
+        "comment": "Env 2 comment\nmultiline"
+    },
+    {
+        "key": "ENV_3",
+        "value": "",
+        "comment": "Env 3 comment"
+    },
+    {
+        "key": "ENV_4",
+        "value": "",
+        "comment": ""
+    },
+    {
+        "key": "ENV_5",
+        "value": "hello\n# this is not a comment",
+        "comment": ""
+    },
+    {
+        "key": "ENV_6",
+        "value": "",
+        "comment": ""
+    },
+    {
+        "key": "ENV_7",
+        "value": "hello\n# this is also not a comment",
+        "comment": ""
+    },
+    {
+        "key": "ENV_8",
+        "value": "",
+        "comment": "Env 8 comment"
+    },
+    {
+        "key": "ENV_9",
+        "value": "hello\n# this is also not a comment",
+        "comment": "but this is"
+    },
+    {
+        "key": "ENV_10",
+        "value": "hello",
+        "comment": "comment low priority"
+    },
+    {
+        "key": "ENV_11",
+        "value": "",
+        "comment": "         Comment is not trimmed, only first #"
+    },
+    {
+        "key": "ENV_12",
+        "value": "",
+        "comment": "######### Comment not stripped only first #"
+    },
+    {
+        "key": "ENV_13",
+        "value": "",
+        "comment": "No first space should also work"
+    },
+    {
+        "key": "ENV_14",
+        "value": "hello\n#        is me you're looking for?",
+        "comment": "mixin      almost everything together ENV=yolo       \n     multi # plus another char"
+    },
+    {
+        "key": "ENV_15",
+        "value": "export messing with bash, value",
+        "comment": "export fake comment"
+    }
+]

@@ -67,7 +67,7 @@
     {
         "key": "ENV_14",
         "value": "hello\n#        is me you're looking for?",
-        "comment": "mixin      almost everything together ENV=yolo       \n     multi # plus another char"
+        "comment": "mixin      almost everything together ENV=yolo       \n    multi # plus another char"
     },
     {
         "key": "ENV_15",
